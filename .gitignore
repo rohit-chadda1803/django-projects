@@ -1,0 +1,15 @@
+# Ignore all .env files
+.env*
+
+# venv 
+
+venv/
+env/
+
+# pycache
+__pycache__/
+
+# sqllite & db files
+
+*.sqlite*
+*.sqlite3
